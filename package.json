@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "files": [
     "dist",
+    "android",
     "ios",
     "LICENSE.md",
     "README.md",
